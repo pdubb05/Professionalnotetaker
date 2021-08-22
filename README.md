@@ -1,6 +1,6 @@
 #Professionalnotetaker
 
-Deployment link 
+Deployment link https://pdubb05.github.io/Professionalnotetaker/
 
 
 Links are functioning properly.
