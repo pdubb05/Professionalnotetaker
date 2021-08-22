@@ -1,5 +1,8 @@
 #Professionalnotetaker
 
+Deployment link 
+
+
 Links are functioning properly.
 -By clicking on the "note taker" on the top left will refresh the page and you will be redirected to the homepage if you are another page like note taker application page.
 -By clicking on the get started page, user will be redirected to the note taker application page.
